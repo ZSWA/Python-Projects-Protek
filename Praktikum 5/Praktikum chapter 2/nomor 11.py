@@ -7,4 +7,4 @@ while True :
         
         break    
     jml+=1
-print("Jumlah Perulangan :", a)
+print("Jumlah Perulangan :", jml)
