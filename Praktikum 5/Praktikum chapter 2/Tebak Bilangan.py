@@ -1,7 +1,7 @@
 from random import randint
 import time
 
-print( "Hai, Selamat datang di Permainan Tebak Angka, Coba tebak angka yang saya simpan ^-^)/")
+print("Hai, Selamat datang di Permainan Tebak Angka, Coba tebak angka yang saya simpan ^-^)/")
 score = 100
 print ("Score Awal Anda = ", score)
 Tebak = randint(1, 100)
